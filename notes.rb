@@ -12,3 +12,6 @@
 #
 #   2. now kill the process by using the PID that comes up, example:
 #     kill -9 3366
+
+# Drop your database and start over with a reseed:
+#   rails db:drop db:create db:migrate db:seed
