@@ -15,3 +15,8 @@
 
 # Drop your database and start over with a reseed:
 #   rails db:drop db:create db:migrate db:seed
+
+# Hard delete unpublished commits
+# This will destroy any local modifications.
+# Don't do it if you have uncommitted work you want to keep.
+# git reset --hard 0d1d7fc32 (this is the commit number)
