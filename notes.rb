@@ -20,3 +20,12 @@
 # This will destroy any local modifications.
 # Don't do it if you have uncommitted work you want to keep.
 # git reset --hard 0d1d7fc32 (this is the commit number)
+
+# http://rubyquicktips.com/post/342527837/console-tip-retrieve-the-last-return-value-with
+# Retrieve the last return value with _
+#   Example:
+#   in irb or consoel if you instantiated a new object with:
+#   User.create(first: "Nolan", last: "Neeley")
+#   you can then assign that return value to a variable like this:
+#   user = _
+#   this would assign the return value that we created previously to the variable user
