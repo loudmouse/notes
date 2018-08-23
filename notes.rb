@@ -30,6 +30,6 @@
 #   user = _
 #   this would assign the return value that we created previously to the variable user
 
-# Run simplecov test coverage report
+# View simplecov test coverage report
 #   1. install simplecov gem
 #   2. in termainal: open coverage/index.html
