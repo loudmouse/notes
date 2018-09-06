@@ -1,4 +1,4 @@
-<!--  Taken from Gordon Zhu's Watch & Code course: watchandcode.com -->
+**Taken from Gordon Zhu's Watch & Code course: watchandcode.com**
 
 # How to Read Source Code
 
